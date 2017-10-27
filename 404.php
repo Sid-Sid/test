@@ -2,7 +2,7 @@
 <?php
     $lay_set = $alka_set['404_layout'];
 ?>
-		<div id="middle" class="container">
+		<div id="middle" class="container test">
 			<div class="white">
                     <header class="page-header">
 					    <h1><strong>Oops</strong>, This Page Could Not Be Found!</h1>
